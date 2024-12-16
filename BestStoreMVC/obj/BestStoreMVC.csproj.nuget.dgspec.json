@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\setupvivobook\\Csharp\\BestStoreMVC_10\\BestStoreMVC\\BestStoreMVC.csproj": {}
+    "D:\\setupvivobook\\Csharp\\BestStoreMVC_11\\BestStoreMVC\\BestStoreMVC.csproj": {}
   },
   "projects": {
-    "D:\\setupvivobook\\Csharp\\BestStoreMVC_10\\BestStoreMVC\\BestStoreMVC.csproj": {
+    "D:\\setupvivobook\\Csharp\\BestStoreMVC_11\\BestStoreMVC\\BestStoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\setupvivobook\\Csharp\\BestStoreMVC_10\\BestStoreMVC\\BestStoreMVC.csproj",
+        "projectUniqueName": "D:\\setupvivobook\\Csharp\\BestStoreMVC_11\\BestStoreMVC\\BestStoreMVC.csproj",
         "projectName": "BestStoreMVC",
-        "projectPath": "D:\\setupvivobook\\Csharp\\BestStoreMVC_10\\BestStoreMVC\\BestStoreMVC.csproj",
+        "projectPath": "D:\\setupvivobook\\Csharp\\BestStoreMVC_11\\BestStoreMVC\\BestStoreMVC.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\setupvivobook\\Csharp\\BestStoreMVC_10\\BestStoreMVC\\obj\\",
+        "outputPath": "D:\\setupvivobook\\Csharp\\BestStoreMVC_11\\BestStoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
